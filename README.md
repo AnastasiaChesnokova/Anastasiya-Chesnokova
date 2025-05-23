@@ -2,8 +2,7 @@
 <h3 align="left">Обо мне</h3>
 Я — начинающий аналитик данных, в 2025 году прошла курс от Яндекс Практикума, что стало хорошей основой для моей профессиональной карьеры. Постоянно развиваюсь и активно применяю полученные знания для решения практических задач.
 <h3 align="left"> Как связаться </h3>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@AkrilandSky)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](zkarmazxxx@gmail.com)  
+https://img.shields.io/badge/telegram-26A5E4?style=social&logo=telegram&logoSize=auto&link=%40AkrilandSky
 
 <h2 align="left">💻 Использую инструменты:</h2>
   <div align="left">
