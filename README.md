@@ -2,10 +2,15 @@
 <h3 align="left">Обо мне</h3>
 Я — начинающий аналитик данных, в 2025 году прошла курс от Яндекс Практикума, что стало хорошей основой для моей профессиональной карьеры. Постоянно развиваюсь и активно применяю полученные знания для решения практических задач.
 <h3 align="left"> Как связаться </h3>
-
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:zkarmazxxx@gmail.com)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/@AkrilandSky)  
+<div align="left">
+  <a href="https://t.me/AkrilandSky" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  />
+  </a>
+   <a href="mailto:zkarmazxxx.@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 <h2 align="left">💻 Использую инструменты:</h2>
+     </a>
+ </div>
   <div align="left">
    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"  />
   <img src="https://img.shields.io/badge/Google_Sheets-228B22?style=for-the-badge&logo=google-sheets&logoColor=white"  />
