@@ -3,7 +3,7 @@
 Я — начинающий аналитик данных, в 2025 году прошла курс от Яндекс Практикума, что стало хорошей основой для моей профессиональной карьеры. Постоянно развиваюсь и активно применяю полученные знания для решения практических задач.
 <h3 align="left"> Как связаться </h3>
 
-[zkarmazxxx2gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <h2 align="left">💻 Использую инструменты:</h2>
   <div align="left">
    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"  />
