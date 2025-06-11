@@ -34,5 +34,4 @@
   <img src="https://img.shields.io/badge/Seaborn-00008B?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-4B0082?style=for-the-badge&logo=matplotlib&logoColor=white" />  
 
-  
-<h3 align="center">Примеры работ 👇</h3>
+
