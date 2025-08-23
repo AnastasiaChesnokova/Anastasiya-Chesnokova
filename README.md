@@ -49,5 +49,7 @@
 * [Анализ сервиса Яндекс книги и АВ тест](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8%20%D0%B8%20%D0%90%D0%92%20%D1%82%D0%B5%D1%81%D1%82.ipynb)
 * [Проверка гипотез в бизнесе](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D1%81%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%BE%D0%B9%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%20%D0%B2%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B5.ipynb)
 * [EDA,АВ тест и проверка гипотез сервиса Яндекс Афиша](https://github.com/AnastasiaChesnokova/Portfolio/blob/04788d6e3ea87bef3cf8534b296cb13bec206206/EDA%2C%20%D0%90%D0%92%20%D1%82%D0%B5%D1%81%D1%82%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B0.ipynb)
-
+  Дашборды DataLens
+  [Динамика метрик Афиша Яндекс](https://datalens.yandex/l83c4ebaowq86)
+  [TED](https://datalens.yandex/h3y5hgprxbi23)
 
