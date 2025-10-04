@@ -35,8 +35,6 @@
   <img src="https://img.shields.io/badge/Matplotlib-4B0082?style=for-the-badge&logo=matplotlib&logoColor=white" />  
 
 <h3 align="center">Примеры работ 👇</h3>
-
-🗺️ Примеры визуализации, дашборды построенные в DataLens:
  
 🗺️ Анализ данных с помощью SQL:
 * [Анализ данных сервиса Яндекс Афиша и подготовка для исследовательского анализа в Python и проверке гипотез](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20SQL%20%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B0%20%D0%B8%20%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B2%20Python%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B5%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7.sql)
@@ -50,7 +48,10 @@
 * [Проверка гипотез в бизнесе](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D1%81%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%BE%D0%B9%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%20%D0%B2%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B5.ipynb)
 * [EDA,АВ тест и проверка гипотез сервиса Яндекс Афиша](https://github.com/AnastasiaChesnokova/Portfolio/blob/04788d6e3ea87bef3cf8534b296cb13bec206206/EDA%2C%20%D0%90%D0%92%20%D1%82%D0%B5%D1%81%D1%82%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B0.ipynb)
 
-  Дашборды DataLens
+🗺️ Примеры работы в Googl sheets:
+*[Нормализация и создание сводной таблицы](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdNodg0f-p0SUOTN1_iZJdwlPsP6kZ0xQpwWaAYGFkpvpcmp9nxA4MbUw-NMdAdDacqVfMBPAAdyKj/pubhtml)
+
+🗺️ Примеры визуализации, дашборды построенные в DataLens:
   
   [Динамика метрик Афиша Яндекс](https://datalens.yandex/l83c4ebaowq86)
   
