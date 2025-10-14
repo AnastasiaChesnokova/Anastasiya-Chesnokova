@@ -50,7 +50,7 @@
 
 🗺️ Примеры работы в Google sheets:
 
-[Нормализация и создание сводной таблицы](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdNodg0f-p0SUOTN1_iZJdwlPsP6kZ0xQpwWaAYGFkpvpcmp9nxA4MbUw-NMdAdDacqVfMBPAAdyKj/pubhtml)
+[Нормализация и создание сводной таблицы](https://docs.google.com/spreadsheets/d/1eT2HQhCX7HqNA9t-IoQqNaRXDklGmTBlFmc-JycDL6Q/edit?usp=sharing)
 
 🗺️ Примеры визуализации, дашборды построенные в DataLens:
   
