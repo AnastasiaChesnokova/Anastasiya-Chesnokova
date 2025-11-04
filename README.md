@@ -12,7 +12,7 @@
      </a>
  </div>
   <div align="left">
-   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"  />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"  />
   <img src="https://img.shields.io/badge/Google_Sheets-228B22?style=for-the-badge&logo=google-sheets&logoColor=white"  />
   <img src="https://img.shields.io/badge/Excel-006400?style=for-the-badge&logo=microsoft-excel&logoColor=white"  />  
   <img src="https://img.shields.io/badge/Yandex_DataLens-7B68EE?style=for-the-badge&logo=yandex&logoColor=white"  />
@@ -36,25 +36,43 @@
 
 <h3 align="center">Примеры работ 👇</h3>
  
-🗺️ Анализ данных с помощью SQL:
-* [Анализ данных сервиса Яндекс Афиша и подготовка для исследовательского анализа в Python и проверке гипотез](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20SQL%20%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B0%20%D0%B8%20%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B2%20Python%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B5%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7.sql)
-* [Исследование- Мотивация доноров крови](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%20%D0%9C%D0%BE%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%BE%D0%BD%D0%BE%D1%80%D0%BE%D0%B2%20%D0%BA%D1%80%D0%BE%D0%B2%D0%B8.sql)
-* [Ad hoc задачи. Внутриигровая валюта](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/Ad%20hoc%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.%20%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B8%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D0%B0.sql)
-
-🗺️ Анализ данных с помощью Python:
-* [AB тестирование нового алгоритма рекомендаций](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/AB%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0%20%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B9.ipynb))
-* [АВ тест нового интерфейса онлайн-магазина BitMotion Kit](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/%D0%90%D0%92%20%D1%82%D0%B5%D1%81%D1%82%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0%20BitMotion%20Kit.ipynb)
-* [Анализ сервиса Яндекс книги и АВ тест](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8%20%D0%B8%20%D0%90%D0%92%20%D1%82%D0%B5%D1%81%D1%82.ipynb)
-* [Проверка гипотез в бизнесе](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D1%81%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%BE%D0%B9%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%20%D0%B2%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B5.ipynb)
-* [EDA,АВ тест и проверка гипотез сервиса Яндекс Афиша](https://github.com/AnastasiaChesnokova/Portfolio/blob/04788d6e3ea87bef3cf8534b296cb13bec206206/EDA%2C%20%D0%90%D0%92%20%D1%82%D0%B5%D1%81%D1%82%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B0.ipynb)
-
-🗺️ Примеры работы в Google sheets:
-
-[Нормализация и создание сводной таблицы](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdNodg0f-p0SUOTN1_iZJdwlPsP6kZ0xQpwWaAYGFkpvpcmp9nxA4MbUw-NMdAdDacqVfMBPAAdyKj/pubhtml)
-
-🗺️ Примеры визуализации, дашборды построенные в DataLens:
+<h3 align="center">
+  🗺️ Анализ данных с помощью SQL:
   
-  [Динамика метрик Афиша Яндекс](https://datalens.yandex/l83c4ebaowq86)
+<div align="left">
   
-  [TED](https://datalens.yandex/h3y5hgprxbi23)
+  * [Анализ данных сервиса Яндекс Афиша и подготовка для исследовательского анализа в Python и проверке гипотез](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20SQL%20%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B0%20%D0%B8%20%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B2%20Python%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B5%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7.sql)
+  
+  * [Исследование- Мотивация доноров крови](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%20%D0%9C%D0%BE%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%BE%D0%BD%D0%BE%D1%80%D0%BE%D0%B2%20%D0%BA%D1%80%D0%BE%D0%B2%D0%B8.sql)
+    
+  * [Ad hoc задачи. Внутриигровая валюта](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/Ad%20hoc%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.%20%D0%92%D0%BD%D1%83%D1%82%D1%80%D0%B8%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D0%B0.sql)
+
+<h3 align="center">
+  🗺️ Анализ данных с помощью Python:
+<div align="left">
+  
+  * [AB тестирование нового алгоритма рекомендаций](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/AB%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0%20%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B9.ipynb)
+  
+  * [АВ тест нового интерфейса онлайн-магазина BitMotion Kit](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/%D0%90%D0%92%20%D1%82%D0%B5%D1%81%D1%82%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0%20BitMotion%20Kit.ipynb)
+  * [Анализ сервиса Яндекс книги и АВ тест](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8%20%D0%B8%20%D0%90%D0%92%20%D1%82%D0%B5%D1%81%D1%82.ipynb)
+  * [Проверка гипотез в бизнесе](https://github.com/AnastasiaChesnokova/Portfolio/blob/7c23bef97c0ff747de530036fc3992e9bcea0be3/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D1%81%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%BE%D0%B9%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%20%D0%B2%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B5.ipynb)
+  * [EDA,АВ тест и проверка гипотез сервиса Яндекс Афиша](https://github.com/AnastasiaChesnokova/Portfolio/blob/04788d6e3ea87bef3cf8534b296cb13bec206206/EDA%2C%20%D0%90%D0%92%20%D1%82%D0%B5%D1%81%D1%82%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B0.ipynb)
+
+<div align="center">
+  🗺️ Примеры работы в Google sheets:
+<div align="left">
+  
+  * [Нормализация и создание сводной таблицы](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdNodg0f-p0SUOTN1_iZJdwlPsP6kZ0xQpwWaAYGFkpvpcmp9nxA4MbUw-NMdAdDacqVfMBPAAdyKj/pubhtml)
+  
+  * [Анализ работы мерчандайзеров](https://docs.google.com/spreadsheets/d/1m-oRTh8PIzbrltrNbVsgblx3v5AfsoeIhGoX6kTEjRg/edit?usp=sharing)
+  * [Форматирование, поиск, подсчет](https://docs.google.com/spreadsheets/d/17AP5A_OnvKlTsFTFVHSxIcRxUyHYIArF/edit?usp=sharing&ouid=108076774988534936632&rtpof=true&sd=true)
+
+<div align="center">
+  🗺️ Примеры визуализации, дашборды построенные в DataLens:
+  
+<div align="left">  
+  
+  * [Динамика метрик Афиша Яндекс](https://datalens.yandex/l83c4ebaowq86)
+  
+  * [TED](https://datalens.yandex/h3y5hgprxbi23)
 
